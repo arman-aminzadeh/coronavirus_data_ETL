@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-arman",
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "be95aa96-80b2-4c51-b10c-c45f914c4225",
+		"tenantId": "001f86fe-d42b-49c1-8f10-c327acc19009"
+	}
+}
