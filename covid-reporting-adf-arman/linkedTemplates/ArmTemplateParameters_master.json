@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "covid-reporting-adf-arman"
+		},
+		"ls_ablobb_covidstoragearman_connectionString": {
+			"value": ""
+		},
+		"ls_covidreportingdls_accountKey": {
+			"value": ""
+		},
+		"ls_covidreportingdls_properties_typeProperties_url": {
+			"value": "https://cocidreportingadls.dfs.core.windows.net/"
+		},
+		"ls_http_opendata_ecdc_europa_eu_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/cloudboxacademy/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
